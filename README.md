@@ -25,7 +25,7 @@ Misc
 Help Out
 Contributors
 Installation
-Check out a clone of this repo to a location of your choice, such as git clone --depth=1 https://github.com/Himangshu30/bash-it-lad/tree/main ~/.bash_it
+Check out a clone of this repo to a location of your choice, such as git clone --depth=1 https://github.com/Himangshu30/bash-it-lad
 Run ~/.bash_it/install.sh
 That's it! 😃
 
