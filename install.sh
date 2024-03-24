@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # bash-it installer
-
+# author -Himangshu
 # Show how to use this installer
 function _bash-it_show_usage() {
 	echo -e "\n$0 : Install bash-it"
