@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#script by @Himangshu
 file=$1
 # Should only be run on clean_files.txt
 if [ "$file" != "clean_files.txt" ]; then
