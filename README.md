@@ -7,7 +7,7 @@ Bash-it provides a solid framework for using, developing and maintaining shell s
 Stop polluting your ~/bin directory and your .bashrc file, fork/clone Bash-it and start hacking away.
 
 
-Installation
+Installation    
 Install Options
 via Docker
 Updating
